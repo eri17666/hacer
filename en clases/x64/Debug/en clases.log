@@ -1,0 +1,8 @@
+﻿  Vector_de_carreras.cpp
+  en clases.cpp
+C:\Users\usuario\Downloads\en clases\en clases\Vector_de_carreras.cpp(13,37): error C2440: '=': no se puede realizar la conversión de 'Vector_De_Materias' a 'Vector_De_Materias *'
+  C:\Users\usuario\Downloads\en clases\en clases\Vector_de_carreras.cpp(13,37):
+  No hay disponible ningún operador de conversión definido por el usuario que pueda realizar esta conversión, o bien no se puede llamar al operador
+  
+C:\Users\usuario\Downloads\en clases\en clases\Vector_de_carreras.cpp(54,50): warning C4805: '==': combinación no segura del tipo 'int' y el tipo 'bool' en la operación
+  Generando código...
